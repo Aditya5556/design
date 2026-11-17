@@ -1,0 +1,6 @@
+{
+  "name": "Codex Mechanica",
+  "description": "An interactive archival exhibition of five hand-drawn invention sketches paired with kinetic mechanical motion and historic quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
